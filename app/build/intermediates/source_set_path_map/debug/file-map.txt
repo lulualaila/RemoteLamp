@@ -1,0 +1,65 @@
+com.remotelamp.app-core-ktx-1.13.0-0 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\0340f029f16d632c73993fbd0a3c30d1\transformed\core-ktx-1.13.0\res
+com.remotelamp.app-lifecycle-runtime-ktx-2.6.2-1 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\0431728bcae09e45451f133d7cca37ce\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.remotelamp.app-navigation-runtime-2.6.0-2 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\0565c5fcf8ff8ba1a5631feb279f2133\transformed\navigation-runtime-2.6.0\res
+com.remotelamp.app-ui-util-release-3 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\07db4b7c4acfd96e38dc195fdd5e10f4\transformed\ui-util-release\res
+com.remotelamp.app-navigation-runtime-ktx-2.6.0-4 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\08b3569dbdf509126b7cfce53e2f2e01\transformed\navigation-runtime-ktx-2.6.0\res
+com.remotelamp.app-lifecycle-livedata-core-2.6.2-5 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\0e6cf2eee131c0e32a3d54dfef1ebad8\transformed\lifecycle-livedata-core-2.6.2\res
+com.remotelamp.app-ui-tooling-preview-release-6 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\110329dd305bbc6ebae5500d00b45d23\transformed\ui-tooling-preview-release\res
+com.remotelamp.app-material-ripple-release-7 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\11c23c2d751325ff9197407c80966ab0\transformed\material-ripple-release\res
+com.remotelamp.app-emoji2-1.3.0-8 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\159290969d2f569cef19c0f95a3bf71d\transformed\emoji2-1.3.0\res
+com.remotelamp.app-ui-geometry-release-9 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\163aa8013d70bf24f89eccd3669dc678\transformed\ui-geometry-release\res
+com.remotelamp.app-runtime-saveable-release-10 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\16cae13b91146bea8c187b80c79297ff\transformed\runtime-saveable-release\res
+com.remotelamp.app-material-1.12.0-11 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\195e1f0b7d9d33fef50298c4b03392fa\transformed\material-1.12.0\res
+com.remotelamp.app-drawerlayout-1.1.1-12 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\1b94604cc2f119ab34651265738743b0\transformed\drawerlayout-1.1.1\res
+com.remotelamp.app-ui-release-13 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\253d9ea05982eb0c068d4fa58890254b\transformed\ui-release\res
+com.remotelamp.app-activity-compose-1.8.0-14 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\2c73c1bb01290e212279df7276bee552\transformed\activity-compose-1.8.0\res
+com.remotelamp.app-lifecycle-viewmodel-2.6.2-15 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\2e9980192ddf1cdeb27997eeba2365ca\transformed\lifecycle-viewmodel-2.6.2\res
+com.remotelamp.app-animation-core-release-16 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\2f006f06b9507c1fe04947223a179faa\transformed\animation-core-release\res
+com.remotelamp.app-lifecycle-livedata-2.6.2-17 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\330b09b2c8cadab3ed556a97be2066ed\transformed\lifecycle-livedata-2.6.2\res
+com.remotelamp.app-activity-ktx-1.8.0-18 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\3b31f6b5f43e700b86d73b27297ac5e7\transformed\activity-ktx-1.8.0\res
+com.remotelamp.app-emoji2-views-helper-1.3.0-19 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\3f73cef143d4769f009510889d6650c7\transformed\emoji2-views-helper-1.3.0\res
+com.remotelamp.app-ui-unit-release-20 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\4676aeaa6d32c9a65ec29a5ec8a08210\transformed\ui-unit-release\res
+com.remotelamp.app-lifecycle-runtime-2.6.2-21 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\4a90f5c5780a55bd02de11ab8f39d064\transformed\lifecycle-runtime-2.6.2\res
+com.remotelamp.app-core-runtime-2.2.0-22 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\4f0d6e1bd7766f4f3235b68917bec302\transformed\core-runtime-2.2.0\res
+com.remotelamp.app-annotation-experimental-1.4.0-23 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\5198806419e0d3112f402e61b38c0d0d\transformed\annotation-experimental-1.4.0\res
+com.remotelamp.app-navigation-compose-2.6.0-24 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\54f4f00cad0ac50a6d7a085bfc61c1d6\transformed\navigation-compose-2.6.0\res
+com.remotelamp.app-navigation-common-2.6.0-25 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\58258a28014623b322d0dd4e7bb0115b\transformed\navigation-common-2.6.0\res
+com.remotelamp.app-material-icons-extended-release-26 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\5993232b4209c914e19e072a6c1685ea\transformed\material-icons-extended-release\res
+com.remotelamp.app-constraintlayout-2.0.1-27 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\5e7526d28b8863e829f9c5401c9d88c8\transformed\constraintlayout-2.0.1\res
+com.remotelamp.app-appcompat-1.6.1-28 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\633d27c0dc43f0d9d4325054eb9079b2\transformed\appcompat-1.6.1\res
+com.remotelamp.app-lifecycle-viewmodel-savedstate-2.6.2-29 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\679aa8dfe5485db85ada6bc850135198\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.remotelamp.app-runtime-release-30 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\67edde6ff9e1b362775a0fe0bc0863cf\transformed\runtime-release\res
+com.remotelamp.app-activity-1.8.0-31 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\6aa3a7f8578d072d0522c43c4ceeac49\transformed\activity-1.8.0\res
+com.remotelamp.app-lifecycle-viewmodel-ktx-2.6.2-32 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\7114a3d67125e35b4e47b1cf371a2c2a\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.remotelamp.app-ui-tooling-data-release-33 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\75ee1dedb799e00285df94cc5778766f\transformed\ui-tooling-data-release\res
+com.remotelamp.app-transition-1.5.0-34 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\7d724a9593bfb5bc2e9ae11da65742f0\transformed\transition-1.5.0\res
+com.remotelamp.app-profileinstaller-1.3.0-35 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\83b2d929177471b5ffd99be5ed6936db\transformed\profileinstaller-1.3.0\res
+com.remotelamp.app-savedstate-1.2.1-36 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\86bc57648d4a74ff6f68e02e131b09c5\transformed\savedstate-1.2.1\res
+com.remotelamp.app-viewpager2-1.0.0-37 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\928315cfb7e6f04e9b20878dc45f3a30\transformed\viewpager2-1.0.0\res
+com.remotelamp.app-coordinatorlayout-1.1.0-38 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\9523361ca7a67e50a22b85c31d071db6\transformed\coordinatorlayout-1.1.0\res
+com.remotelamp.app-lifecycle-viewmodel-compose-2.6.2-39 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\9f4d1c64215c93a17204f6f93341e79a\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.remotelamp.app-recyclerview-1.1.0-40 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\9fb675c1b23066ec742a80df2ebe420f\transformed\recyclerview-1.1.0\res
+com.remotelamp.app-appcompat-resources-1.6.1-41 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\a947207e80690d74547a8f494337cf70\transformed\appcompat-resources-1.6.1\res
+com.remotelamp.app-startup-runtime-1.1.1-42 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\aa35ed4f2aabb88281c584240fa2d909\transformed\startup-runtime-1.1.1\res
+com.remotelamp.app-foundation-layout-release-43 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\b09b5c41e310e72691a07947c20e64b9\transformed\foundation-layout-release\res
+com.remotelamp.app-foundation-release-44 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\b19e9ade8ce1f673997e6f7e29a41179\transformed\foundation-release\res
+com.remotelamp.app-core-1.13.0-45 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\b637ed6f987d6915ea4fc8b77037f34f\transformed\core-1.13.0\res
+com.remotelamp.app-animation-release-46 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\b655053130ad2f75f68ea562534ea0d3\transformed\animation-release\res
+com.remotelamp.app-customview-poolingcontainer-1.0.0-47 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\b6e332910f1f6026b72466d23863fcd2\transformed\customview-poolingcontainer-1.0.0\res
+com.remotelamp.app-savedstate-ktx-1.2.1-48 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\bf909348d9df11301a0edcef5c8b83a4\transformed\savedstate-ktx-1.2.1\res
+com.remotelamp.app-ui-tooling-release-49 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\c1fb8d709b0ead8144feba7d781312cf\transformed\ui-tooling-release\res
+com.remotelamp.app-navigation-common-ktx-2.6.0-50 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\c6cedd8ef79d725398e348e8959bc423\transformed\navigation-common-ktx-2.6.0\res
+com.remotelamp.app-fragment-1.3.6-51 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\d1d9cb9480567df6958910b887d7b55d\transformed\fragment-1.3.6\res
+com.remotelamp.app-lifecycle-process-2.6.2-52 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\d23fd27c7024cd5368a0a13051c81129\transformed\lifecycle-process-2.6.2\res
+com.remotelamp.app-ui-text-release-53 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\d36412026f964e72ea83891943e87358\transformed\ui-text-release\res
+com.remotelamp.app-material-release-54 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\f16df566359067b2ea059f26df989a4a\transformed\material-release\res
+com.remotelamp.app-ui-graphics-release-55 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\f33038b43431a3db78b0e8ede800f2a0\transformed\ui-graphics-release\res
+com.remotelamp.app-cardview-1.0.0-56 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\fdca2d48d39f5cfa05ad1fb8560c4311\transformed\cardview-1.0.0\res
+com.remotelamp.app-material-icons-core-release-57 D:\DARI C\Documents\KULIAH\sem 4\pab\Taskive\caches\8.9\transforms\ffc97946cca9c6f4ffb243860dfd38ed\transformed\material-icons-core-release\res
+com.remotelamp.app-pngs-58 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\build\generated\res\pngs\debug
+com.remotelamp.app-resValues-59 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\build\generated\res\resValues\debug
+com.remotelamp.app-packageDebugResources-60 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.remotelamp.app-packageDebugResources-61 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.remotelamp.app-merged_res-62 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\build\intermediates\merged_res\debug
+com.remotelamp.app-debug-63 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\src\debug\res
+com.remotelamp.app-main-64 D:\DARI C\Documents\KULIAH\sem_4\pab\RemoteLamp\app\src\main\res

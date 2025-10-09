@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.remotelamp.app-merged_res-62:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.remotelamp.app-main-64:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.remotelamp.app-merged_res-62:/mipmap_ic_launcher.png.flat",
+        "source": "com.remotelamp.app-main-64:/mipmap/ic_launcher.png"
+    }
+]

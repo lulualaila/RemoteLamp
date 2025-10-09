@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.remotelamp.app-mergeDebugResources-60:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "D:\\DARI C\\Documents\\KULIAH\\sem 4\\pab\\Taskive\\caches\\8.9\\transforms\\633d27c0dc43f0d9d4325054eb9079b2\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
