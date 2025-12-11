@@ -30,7 +30,7 @@ Proyek ini merupakan aplikasi Android berbasis **Kotlin + Jetpack Compose** yang
 
 ---
 
-## 📦 **Cara Menggunakan**
+## **Cara Menggunakan**
 
 1. Download repository ini atau clone:
 
