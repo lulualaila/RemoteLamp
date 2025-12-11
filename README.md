@@ -1,6 +1,6 @@
-# **SMART LED CONTROL SYSTEM
+# SMART LED CONTROL SYSTEM
 
-Menggunakan ESP32 dan Bluetooth**
+**Menggunakan ESP32 dan Bluetooth**
 
 Proyek ini merupakan aplikasi Android berbasis **Kotlin + Jetpack Compose** yang digunakan untuk mengontrol **Smart LED** melalui koneksi **Bluetooth ke ESP32**. Aplikasi menyediakan dua layar utama: **Scan Device** dan **Control LED** (mengatur warna dan power).
 
