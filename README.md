@@ -1,4 +1,4 @@
-# SMART LED CONTROL SYSTEM
+# REMOTELAMP - SMART LED CONTROL SYSTEM
 
 **Menggunakan ESP32 dan Bluetooth**
 
